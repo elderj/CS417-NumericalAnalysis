@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1426223932 source:z:\cs417\numerical\submit\augmentedmatrix.cpp
+	"AugmentedMatrix.h"
+
+1426222262 Matrix.h"
+
+1426219610 z:\cs417\numerical\submit\augmentedmatrix.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1424571248 
+
+1426615166 source:z:\cs417\numerical\submit\bisection.cpp
+	"Bisection.h"
+
+1426615166 .h"
+
+1426615152 z:\cs417\numerical\submit\bisection.h
+	<iostream>
+	<vector>
+	<math.h>
+
+1426222204 source:z:\cs417\numerical\submit\gaussianelimination.cpp
+	"GaussianElimination.h"
+
+1426962934 limination.h"
+
+1426222262 z:\cs417\numerical\submit\gaussianelimination.h
+	<iostream>
+	<fstream>
+	<vector>
+	"AugmentedMatrix.h"
+
+1426960927 source:z:\cs417\numerical\submit\gausssiedel.cpp
+	"GaussSiedel.h"
+
+1426960927 el.h"
+
+1424569750 z:\cs417\numerical\submit\gausssiedel.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+
+1425207912 source:z:\cs417\numerical\submit\jacobi.cpp
+	"Jacobi.h"
+	"GaussianElimination.h"
+
+1426960927 z:\cs417\numerical\submit\jacobi.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<math.h>
+
+1426223972 source:z:\cs417\numerical\submit\ludecomposition.cpp
+	"LUDecomposition.h"
+
+1426223972 sition.h"
+
+1426223862 z:\cs417\numerical\submit\ludecomposition.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"AugmentedMatrix.h"
+	<vector>
+	<math.h>
+
+1426960970 source:z:\cs417\numerical\submit\successiveoverrelaxation.cpp
+	"SuccessiveOverRelaxation.h"
+
+1426960970 eOverRelaxation.h"
+
+1424571248 z:\cs417\numerical\submit\successiveoverrelaxation.h
+	<vector>
+	<iostream>
+	<math.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+
+1426962934 source:z:\cs417\numerical\submit\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"Jacobi.h"
+	"GaussSiedel.h"
+	"SuccessiveOverRelaxation.h"
+	"GaussianElimination.h"
+
+1428096715 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/AugmentedMatrix.cpp
+	"AugmentedMatrix.h"
+
+1428096729 /home/jelder/Codez/CPlusPlus/CS417/Submit/AugmentedMatrix.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1429065269 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/GaussianElimination.cpp
+	"GaussianElimination.h"
+
+1429065269 /home/jelder/Codez/CPlusPlus/CS417/Submit/GaussianElimination.h
+	<iostream>
+	<fstream>
+	<vector>
+	"AugmentedMatrix.h"
+
+1429065269 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/GaussSiedel.cpp
+	"GaussSiedel.h"
+
+1429065268 /home/jelder/Codez/CPlusPlus/CS417/Submit/GaussSiedel.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+
+1429065269 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Jacobi.cpp
+	"Jacobi.h"
+	"GaussianElimination.h"
+
+1429065268 /home/jelder/Codez/CPlusPlus/CS417/Submit/Jacobi.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<math.h>
+
+1429067107 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"Jacobi.h"
+	"GaussSiedel.h"
+	"SuccessiveOverRelaxation.h"
+	"GaussianElimination.h"
+	"LUDecomposition.h"
+	"Bisection.h"
+	"Regula.h"
+	"Newton.h"
+
+1429065268 /home/jelder/Codez/CPlusPlus/CS417/Submit/SuccessiveOverRelaxation.h
+	<vector>
+	<iostream>
+	<math.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+
+1429065268 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/SuccessiveOverRelaxation.cpp
+	"SuccessiveOverRelaxation.h"
+
+1429066070 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/LUDecomposition.cpp
+	"LUDecomposition.h"
+
+1428096718 /home/jelder/Codez/CPlusPlus/CS417/Submit/LUDecomposition.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"AugmentedMatrix.h"
+	<vector>
+	<math.h>
+
+1428285151 /home/jelder/Codez/CPlusPlus/CS417/Submit/Bisection.h
+	<iostream>
+	<vector>
+	<math.h>
+	"Equation.h"
+
+1428194525 /home/jelder/Codez/CPlusPlus/CS417/Submit/Equation.h
+	"Term.h"
+	<vector>
+	<iostream>
+
+1428109769 /home/jelder/Codez/CPlusPlus/CS417/Submit/Term.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<sstream>
+	<string>
+	<vector>
+
+1428809772 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Bisection.cpp
+	"Bisection.h"
+
+1428810046 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Equation.cpp
+	"Equation.h"
+
+1428810146 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Term.cpp
+	"Term.h"
+
+1428809904 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Regula.cpp
+	"Regula.h"
+
+1428716018 /home/jelder/Codez/CPlusPlus/CS417/Submit/Regula.h
+	<iostream>
+	<vector>
+	<math.h>
+	"Equation.h"
+
+1428107207 /home/jelder/Codez/CPlusPlus/CS417/Submit/Newton.h
+	<iostream>
+	<vector>
+	<math.h>
+	"Equation.h"
+
+1428810332 source:/home/jelder/Codez/CPlusPlus/CS417/Submit/Newton.cpp
+	"Newton.h"
+
